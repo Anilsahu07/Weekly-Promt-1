@@ -1,0 +1,179 @@
+@media(max-width:836px){
+    .nav-links{
+        display: none;
+    }
+
+   .info-box{
+    width: 100%;
+   }
+
+   .place-img{
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .dark{
+    width: 100%;
+    height: 300px;
+   }
+
+   .img-box1{
+    width: 800px;
+    height: 300px;
+   }
+   .img-box2{
+    width: 800px;
+    height: 300px;
+   }
+   .img-box3{
+    width: 800px;
+    height: 300px;
+   }
+   .img-box4{
+    width: 800px;
+    height: 300px;
+   }
+
+   .avail-img{
+    flex-direction: column;
+    gap: 20px;
+   }
+
+   .info-1{
+    width: 800px;
+   }
+
+   .info-1 img{
+    width: 100%;
+    height: 200px;
+   }
+
+   .search-box0{
+    width: 90%;
+   }
+
+   .white{
+    /* flex-direction: column; */
+    /* padding: 20px 30px; */
+    /* align-items: center; */
+   }
+
+   .search-content{
+    width: 100%;
+    text-align: center;
+   }
+
+   .money-icon{
+    margin-top: 30px;
+   }
+
+   .tool-boxes{
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .tool-1{
+    width: 90%;
+   }
+
+}
+
+
+@media(max-width:400px){
+
+    nav{
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .admin{
+        display: none;
+    }
+   
+    #menu{
+        display: block;
+        font-size: 30px;
+    }
+
+    .place1{
+        width: 100%;
+        /* padding: 10px 40px; */
+        /* text-align: center; */
+     }
+
+   .img-box1{
+    width: 99%;
+   }
+
+   .img-box2{
+    width: 99%;
+   }
+   .img-box4{
+    width: 99%;
+   }
+   .img-box3{
+    width: 99%;
+   }
+
+   .dark{
+    width: 100%;
+   }
+   .place2{
+    width: 100%;
+   }
+
+   .avail-img{
+    align-items: center;
+   }
+
+   .info-1{
+    width: 100%;
+    border: 1px solid black;
+   }
+
+   .info-1 img{
+    width: 100%;
+   }
+
+
+   .search-box0{
+    width: 650px;
+    justify-content: center;
+    height: 400px;
+   }
+
+   .white{
+    padding: 50px 10px;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 20px;
+    height: 400px;
+   }
+
+   .info-box{
+    width: 9;
+   }
+
+   .info{
+    justify-content: center;
+    position: relative;
+    left: 80px;
+   }
+
+   .info-box{
+    width: 80%;
+   }
+
+   .page1{
+    width: 140%;
+   }
+
+   .black{
+    width: 100%;
+   }
+
+   .top-link a{
+    /* display: none; */
+    font-size: 10px;
+   }
+}
